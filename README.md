@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+### NAME:NAVEEN KUMAR M
+### REG NO:24900580
+### EXPERIMENT 1:Led Control Using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -50,6 +52,7 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 ![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f)
 
 ### Applications
+
 Interactive Light Display </br>
 Educational Game for Children </br>
 Home Automation </br>
@@ -58,9 +61,19 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+<img src="https://github.com/user-attachments/assets/187cf4e5-c0cf-408e-b29d-f7410e19ae51" width="600" height="500"/>
 
-## PROGRAM
+## PROGRAM 
+<img src="https://github.com/user-attachments/assets/7fb5fc2c-7ecf-4628-b98c-883de74e2234" width="600" height="500"/>
+
 
 ## OUTPUT
+LED OFF
+<img src="https://github.com/user-attachments/assets/833a0c93-cfb1-4bc7-aa46-6639f4a0ac9c" width="600" height="500"/>
+
+LED ON
+<img src="https://github.com/user-attachments/assets/70b87891-ff6a-4662-a6ac-f4b599d9321b" width="600" height="500"/>
+
 
 ## RESULT
+ Designed and implemented a system for LED control using an Arduino microcontroller and a push button was successfully
