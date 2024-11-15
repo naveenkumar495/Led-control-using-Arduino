@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+![IMG-20241027-WA0052](https://github.com/user-attachments/assets/63c4ce13-d605-45d3-9486-d48f879fc347)### NAME:NAVEEN KUMAR M
+### REG ON:24900580
+### EXPERIMENT 1:Led Control Using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -57,10 +59,20 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 
+
 ## CIRCUIT DIAGRAM
+<img src="https://github.com/user-attachments/assets/4db91d73-a173-4a09-ab64-0595134e5114" width="600" height="500"/>
 
 ## PROGRAM
+<img src="https://github.com/user-attachments/assets/1c7ae5f6-1910-41c5-a2a3-a537911ffd61" width="600" height="500"/>
+
 
 ## OUTPUT
+LED OFF
+<img src="https://github.com/user-attachments/assets/081186a5-8b37-46cd-b957-d9d3f2ca821a" width="600" height="500"/>
+LED ON
+<img src="https://github.com/user-attachments/assets/f40b21d7-93e4-4e1f-8eb9-7922aa362028" width="600" height="500"/>
+
 
 ## RESULT
+Designed and implemented a system for LED control using an Arduino microcontroller and a push button was sucessfully.
