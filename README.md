@@ -1,4 +1,4 @@
-![IMG-20241027-WA0052](https://github.com/user-attachments/assets/63c4ce13-d605-45d3-9486-d48f879fc347)### NAME:NAVEEN KUMAR M
+### NAME:NAVEEN KUMAR M
 ### REG ON:24900580
 ### EXPERIMENT 1:Led Control Using Arduino
 
